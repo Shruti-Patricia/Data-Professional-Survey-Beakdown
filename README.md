@@ -1,4 +1,5 @@
-# Power-BI_Project-1
+# DATA-PROFESSIONAL-SURVEY-BREAKDOWN
+
 Welcome to the "Data Professional Survey Breakdown" Power BI project! 
 In this analysis, I have delve into insights derived from a comprehensive dataset obtained from the raw data available at https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx . 
 The dataset was meticulously processed to ensure accuracy and relevance by eliminating duplicate values and removing unnecessary columns, leveraging the Power Query Editor.
